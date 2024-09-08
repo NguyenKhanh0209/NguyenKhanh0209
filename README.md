@@ -1,12 +1,11 @@
 <img src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-93.gif" alt="nguyenkhanh0209" />
 <h1 align="center">Hi 👋, I'm Nguyen Tran Quoc Khanh</h1>
-<h3 align="center">A passionate developer from Viet Nam</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenkhanh0209&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenkhanh0209" /> </p>
 
 - 📫 How to reach me **khanh020904@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
