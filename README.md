@@ -9,7 +9,7 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently a sophomore at FPT University, Ho Chi Minh City, Vietnam.
  
  🌱 I'm deeply interested in Blockchain, with a focus on Web3, DeFi, and Decentralized Identity, and I'm also captivated by Big Data and AI.
 
