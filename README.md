@@ -1,4 +1,5 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=NguyenKhanh0209.NguyenKhanh0209&left_color=red&right_color=green&left_text=HelloVisitors)
+<img src="https://pantograph.io/wp-content/uploads/2020/07/blockchain-block.gif" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Khanh!;" />
 </h1>
@@ -18,7 +19,7 @@
  </div>
  
 <div align="left"> 
-  <a href="nguyentranquockhanh@gmail.com">
+  <a href="mailto:nguyentranquockhanh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/nguyentranquockhanh/" target="_blank">
