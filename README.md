@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=NguyenKhanh0209.NguyenKhanh0209&left_color=red&right_color=green&left_text=HelloVisitors)
-<img src="https://pantograph.io/wp-content/uploads/2020/07/blockchain-block.gif" />
+<img src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Khanh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Khanh!;&color=FB418D" />
 </h1>
 
 <h3 align="center">A passionate Blockchain developer from Viet Nam</h3>
@@ -29,7 +29,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🕹 Languages-Frameworks-Tools 🕹️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,postman" />
@@ -51,10 +51,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NguyenKhanh0209&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=NguyenKhanh0209&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NguyenKhanh0209&count_private=true&theme=radical&border_radius=10" alt="streak stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=NguyenKhanh0209&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NguyenKhanh0209&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NguyenKhanh0209&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
