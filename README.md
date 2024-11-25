@@ -1,5 +1,5 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=NguyenKhanh0209.NguyenKhanh0209&left_color=red&right_color=green&left_text=HelloVisitors)
-<img src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif" />
+<img src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Khanh!;&color=FB418D" />
 </h1>
