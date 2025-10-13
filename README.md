@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Khanh!;&color=FB418D" />
 </h1>
 
-<h3 align="center">A passionate Blockchain developer from Viet Nam</h3>
+<h3 align="center">A developer from Viet Nam</h3>
 
 <br/>
 
 <div align="left">
  
- 🔭 I’m currently a sophomore at FPT University, Ho Chi Minh City, Vietnam.
+ 🔭 I’m currently study at FPT University, Ho Chi Minh City, Vietnam.
  
- 🌱 I'm deeply interested in Blockchain, with a focus on Web3, DeFi, and Decentralized Identity, and I'm also captivated by Big Data and AI.
+ 🌱 I'm deeply interested in Blockchain, with a focus on Web3, DeFi, and I'm also captivated by Big Data and AI.
 
 💬 Ask me about Node.js, React, Rust... 
 
