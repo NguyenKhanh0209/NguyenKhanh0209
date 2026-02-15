@@ -12,7 +12,7 @@
  
  🔭 I’m currently study at FPT University, Ho Chi Minh City, Vietnam.
  
- 🌱 I'm deeply interested in Blockchain, with a focus on Web3, DeFi, and I'm also captivated by Big Data and AI.
+ 🌱 I’m deeply interested in designing and building high-performance frontends with polished UI and smooth animations, as well as researching deep learning and intelligent systems.
 
 💬 Ask me about Node.js, React, Rust... 
 
